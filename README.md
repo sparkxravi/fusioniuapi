@@ -9,8 +9,9 @@
 <br/>
 
 [![Live](https://img.shields.io/badge/Live-fusioniuapi.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://fusioniuapi.vercel.app)
-[![License](https://img.shields.io/badge/License-MIT-8b5cf6?style=for-the-badge)](#-license)
+[![License: MIT](https://img.shields.io/badge/License-MIT-8b5cf6?style=for-the-badge)](./LICENSE)
 [![API Version](https://img.shields.io/badge/API-v2.0-22c55e?style=for-the-badge)](#-api-reference)
+[![Made by](https://img.shields.io/badge/Made%20by-sparkxravi-ff69b4?style=for-the-badge&logo=github)](https://github.com/sparkxravi)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -42,6 +43,7 @@ Two endpoints. Plain `GET` requests. JSON responses. That's it.
 - [Environment Variables](#-environment-variables)
 - [API Reference](#-api-reference)
 - [Security Notes](#-security-notes)
+- [Author](#-author)
 - [License](#-license)
 
 ---
@@ -166,9 +168,21 @@ Both endpoints require an API key, generated from your dashboard after signing u
 
 ---
 
+## 👤 Author
+
+Built and maintained by **[sparkxravi](https://github.com/sparkxravi)**.
+
+If you fork or reuse this project, please keep the original license and credit intact 🙏
+
+<a href="https://github.com/sparkxravi">
+  <img src="https://img.shields.io/badge/GitHub-sparkxravi-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
 ## 📄 License
 
-This project is provided as-is under the MIT License.
+This project is licensed under the **MIT License** — see [`LICENSE`](./LICENSE) for details.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" width="100%"/>
